@@ -1,4 +1,4 @@
-const blockName = "Trump";  // Replace with the name you want to block
+const blockName = "Name1";  // Replace with the name you want to block
 
 function blockContent() {
   const elements = document.body.getElementsByTagName('*');
